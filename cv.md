@@ -27,8 +27,9 @@
                 </div>	
 
 6. ### Education
+
     **WayUp Course (web-design)**  
     **[HTML Academy Course](https://htmlacademy.ru/)**
 
 8. ### English
-    B1 level (intermediate)
+    B1 level (*Intermediate*)
